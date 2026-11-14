@@ -41,10 +41,7 @@
  *******************************************************/
 
 
-//TODO: Create your controller-object. When initiated, it should boot
-//      the view (or views, if you decide to make a console-view).
 
-//TODO: Add EventListeners, to forward the user inputs to the model.
 
 import {ConnectFourView} from "./view.polished.js";
 import {ConnectFourModel} from "./model.connectfour.js";
